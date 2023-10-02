@@ -1,5 +1,5 @@
 <h1 align="center">Hey👋, I'm Sayan Haldar</h1>
-<h3 align="center">A passionate developer and learner from INDIA</h3>
+<h3 align="center">A passionate Software developer and learner from INDIA</h3>
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-yan30&label=Profile%20views&color=0e75b6&style=flat" alt="sha-yan30" /> </p>
