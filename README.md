@@ -1,6 +1,6 @@
 <h1 align="center">Hey👋, I'm Sayan Haldar</h1>
 <h3 align="center">A passionate developer and learner from INDIA</h3>
-<img align="right" width="400px" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia2.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwjkzoi-ndeBAxXlzaACHbAdCDcQMygBegQIARBa..i&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&docid=DjMcDTxMfmhRGM&w=480&h=360&q=coding%20gif&hl=en&ved=2ahUKEwjkzoi-ndeBAxXlzaACHbAdCDcQMygBegQIARBa" alt="coding">
+<img align="right" width="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sha-yan30&label=Profile%20views&color=0e75b6&style=flat" alt="sha-yan30" /> </p>
 
